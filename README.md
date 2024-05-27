@@ -3,8 +3,8 @@ import Profile from "ShaktiBiplabDev"
 
 class Bio extends Profile {
   name    = "ShaktiBiplab";
-  email   = "shaktibiplab0987654321@gmail.com";
-  website = "https://shaktibiplab.com";
+  email   = "shaktibiplab61@gmail.com";
+  website = "https://aeroverse.top";
 }
 
 class Skills extends Profile {
