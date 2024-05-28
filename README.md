@@ -1,3 +1,5 @@
+## About Me
+
 ```js
 import Profile from "ShaktiBiplabDev"
 
@@ -21,6 +23,8 @@ class Skills extends Profile {
   editors          = ["Visual Studio Code"];
 }
 ```
+## Stats and Streak
+
 <div align="center">
   <a href="https://git.io/streak-stats" style="margin-right: 20px;">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=shaktibiplabDev&show_icons=true&theme=highcontrast" alt="GitHub Streak" />
