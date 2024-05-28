@@ -27,3 +27,7 @@ class Skills extends Profile {
   </a>
   <img src="https://github-readme-stats.vercel.app/api?username=shaktibiplabDev&show_icons=true&theme=highcontrast" alt="Shakti's GitHub stats" />
 </div>
+
+## Commits
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
