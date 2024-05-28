@@ -21,4 +21,4 @@ class Skills extends Profile {
   editors          = ["Visual Studio Code"];
 }
 ```
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shaktibiplabDev" alt="GitHub Streak" /></a>[![Shakti's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaktibiplabDev)]
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shaktibiplabDev&show_icons=true&theme=dark" alt="GitHub Streak" /></a>[![Shakti's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaktibiplabDev&show_icons=true&theme=dark)]
